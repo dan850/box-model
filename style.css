@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-.header, .footer {
+.header h1, h3, .footer {
   background-color: grey;
   color: white;
   padding: 15px;
