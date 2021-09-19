@@ -9,7 +9,7 @@
   background-color: grey;
   color: white;
   padding: 15px;
-	text-align: center;
+  text-align: center;
 }
 
 .column {
@@ -30,6 +30,14 @@
 .content {
   width: 75%;
 }
+
+
+#halloweencolor { 
+	
+	background-color: darkorange;
+}
+
+
 
 .menu ul {
   list-style-type: none;
