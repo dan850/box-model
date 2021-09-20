@@ -8,7 +8,7 @@
 
 #container{
 	width: 990px;
-	background-color: wheat;
+	background-color: white;
 	margin: 0 auto;
 }
 
@@ -47,9 +47,9 @@ footer {
 
 
 nav{
-	width: 250px;
+	width: auto;
 	background-color: aquamarine;
-	height: 450px;
+	height: 1000px;
 	float: left;
 }
 
@@ -58,33 +58,30 @@ article{
 	background-color: white;
 	height: auto;
 	float: left;
-	padding: 15px;
+	padding: 25px;
 }
 
-.left{
+.leftbody{
 	width: 400px;
 	float:left;
 	margin-top:30px;
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 	
 }
 
-.right{
+.rightbody{
 	width: 400px; 
 	float:right;
 	margin-left: 30px;
 	margin-top:30px;
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 18px;
+	
 }
 
 
 
 .menu {
-  width: 45%;
+  width: 100%;
 }
-
-
 
 #halloweencolor { 
 	
