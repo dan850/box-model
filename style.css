@@ -17,7 +17,7 @@
 
 body{
 	background: url("images/stripe.png");
-	background-repeat: space;
+	background-repeat: repeat;
 	border: 2px solid black;
     padding: 25px;
    
