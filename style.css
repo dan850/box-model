@@ -19,6 +19,7 @@ body{
 	background-repeat: repeat;
 	border: 2px solid black;
     padding: 25px;
+	font-family: "nunito";
    
 	
 }
@@ -49,7 +50,7 @@ footer {
 nav{
 	width: auto;
 	background-color: aquamarine;
-	height: 1000px;
+	height: 1200px;
 	float: left;
 }
 
@@ -105,6 +106,45 @@ article{
   color: #ffffff;
 }
 
+section {
+  display: inline-block;
+}
+
 .menu li:hover {
   background-color: #000;
+}
+
+
+
+#choc
+	{
+		color: red;
+	}
+
+	#peanut
+	{
+		font-style: oblique;
+	}
+	
+	#car
+	{
+		font-size: 1.5em;
+		color: saddlebrown;
+	}
+	
+	
+	.tableheading {
+	font-size: large;
+	color: forestgreen;
+}
+
+	
+body {
+  background-color: linen;
+}
+
+	
+table, th, td {
+  border:1px solid #8710CB;
+  text-align: center;
 }
