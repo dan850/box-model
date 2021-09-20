@@ -62,7 +62,22 @@ article{
 	padding: 15px;
 }
 
+.left{
+	width: 400px;
+	float:left;
+	margin-top:30px;
+	margin-bottom: 30px;
+	
+}
 
+.right{
+	width: 400px; 
+	float:right;
+	margin-left: 30px;
+	margin-top:30px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+}
 
 
 
