@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+input[type=text], input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 15px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: black;
+  color: orange;
+}
+
+button[type=submit], button[type=reset] {
+  padding: 12px 20px;
+  margin: 15px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: orange;
+  color: black;
+}
+
+
+ form {
+  border-radius: 5px;
+  background-color: lightgray;
+  padding: 20px;
+}
