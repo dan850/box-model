@@ -1,6 +1,18 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
+
+
+
+
+
+form > h1 {
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+
+}
+
 input[type=text], input[type=email] {
   width: 100%;
   padding: 12px 20px;
@@ -20,8 +32,18 @@ button[type=submit], button[type=reset] {
   color: black;
 }
 
+textarea {
+  width: 50%;
+  height: 100px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  background-color: lightgreen;
+  color: black;
+}
 
  form {
+font-family: 'Roboto', sans-serif;
+
   border-radius: 5px;
   background-color: lightgray;
   padding: 20px;
